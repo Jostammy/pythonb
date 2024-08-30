@@ -54,5 +54,5 @@ for i in x:
          pass
     
 print (f'Your total score is: {scores}')
-print ("DONE!!")
+print ("DONE WITH QUIZ!!!")
 # answer key (a,b,c,b,a,a,c,d,d,b)
