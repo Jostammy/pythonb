@@ -51,7 +51,7 @@ for i in x:
          scores += 1
          print(f'Your current scores is: {scores}')
     else:
-         pass
+         print("You are wrong")
     
 print (f'Your total score is: {scores}')
 print ("DONE WITH QUIZ!!!")
